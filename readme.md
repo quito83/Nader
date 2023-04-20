@@ -134,3 +134,6 @@ Despues compilamos y hacemos el deploy:
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network mumbai
 ```
+
+
+[Mumbai Faucet](https://faucet.polygon.technology/)
